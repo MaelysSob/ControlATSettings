@@ -41,6 +41,13 @@
             "type" : "FLOAT",
             "description" : "just testing around with sound from vdmx",
             "group" : "light"
+        },
+        
+            "name" : "peopleCounter",
+            "type" : "INT",
+            "description" : "sending the amount of people coming in",
+            "group" : "light"
         }
+        
     ]
 }
